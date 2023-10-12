@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="7" passed="7" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-10-09T02:55:34 IST" name="Free CRM Application Test Automation Test Suite" finished-at="2023-10-09T02:56:19 IST" duration-ms="45011">
+    <groups>
+    </groups>
+    <test started-at="2023-10-09T02:55:34 IST" name="Free CRM Application Test Cases" finished-at="2023-10-09T02:56:19 IST" duration-ms="45011">
+      <class name="com.ui.qa.test.HomePageTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.ui.qa.test.HomePageTest@304bb45b]" started-at="2023-10-09T02:55:34 IST" name="setup" finished-at="2023-10-09T02:55:41 IST" duration-ms="6415" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="HomePageValidation()[pri:1, instance:com.ui.qa.test.HomePageTest@304bb45b]" started-at="2023-10-09T02:55:41 IST" name="HomePageValidation" finished-at="2023-10-09T02:55:43 IST" duration-ms="2259" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- HomePageValidation -->
+        <test-method is-config="true" signature="TearDown()[pri:0, instance:com.ui.qa.test.HomePageTest@304bb45b]" started-at="2023-10-09T02:55:43 IST" name="TearDown" finished-at="2023-10-09T02:55:43 IST" duration-ms="193" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.ui.qa.test.HomePageTest@304bb45b]" started-at="2023-10-09T02:55:43 IST" name="setup" finished-at="2023-10-09T02:55:48 IST" duration-ms="4546" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="ValidationCreateNewContact(java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:2, instance:com.ui.qa.test.HomePageTest@304bb45b]" started-at="2023-10-09T02:55:48 IST" name="ValidationCreateNewContact" data-provider="getTestData" finished-at="2023-10-09T02:55:51 IST" duration-ms="2857" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[ranjan]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[pradhan]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[kumar]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[test]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ValidationCreateNewContact -->
+        <test-method is-config="true" signature="TearDown()[pri:0, instance:com.ui.qa.test.HomePageTest@304bb45b]" started-at="2023-10-09T02:55:51 IST" name="TearDown" finished-at="2023-10-09T02:55:51 IST" duration-ms="125" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.ui.qa.test.HomePageTest@304bb45b]" started-at="2023-10-09T02:55:51 IST" name="setup" finished-at="2023-10-09T02:55:55 IST" duration-ms="4475" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="ValidationCreateNewContact(java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:2, instance:com.ui.qa.test.HomePageTest@304bb45b]" started-at="2023-10-09T02:55:55 IST" name="ValidationCreateNewContact" data-provider="getTestData" finished-at="2023-10-09T02:55:58 IST" duration-ms="2836" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Shilpa]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Tripathy]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[kumar]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[test1]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ValidationCreateNewContact -->
+        <test-method is-config="true" signature="TearDown()[pri:0, instance:com.ui.qa.test.HomePageTest@304bb45b]" started-at="2023-10-09T02:55:58 IST" name="TearDown" finished-at="2023-10-09T02:55:58 IST" duration-ms="138" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.ui.qa.test.HomePageTest@304bb45b]" started-at="2023-10-09T02:55:58 IST" name="setup" finished-at="2023-10-09T02:56:03 IST" duration-ms="4489" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="ValidationCreateNewContact(java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:2, instance:com.ui.qa.test.HomePageTest@304bb45b]" started-at="2023-10-09T02:56:03 IST" name="ValidationCreateNewContact" data-provider="getTestData" finished-at="2023-10-09T02:56:06 IST" duration-ms="2853" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Tanaya]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Mohini]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[paanda]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[test3]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ValidationCreateNewContact -->
+        <test-method is-config="true" signature="TearDown()[pri:0, instance:com.ui.qa.test.HomePageTest@304bb45b]" started-at="2023-10-09T02:56:06 IST" name="TearDown" finished-at="2023-10-09T02:56:06 IST" duration-ms="149" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+      </class> <!-- com.ui.qa.test.HomePageTest -->
+      <class name="com.ui.qa.test.SignUpPageTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.ui.qa.test.SignUpPageTest@57bc27f5]" started-at="2023-10-09T02:56:15 IST" name="setup" finished-at="2023-10-09T02:56:19 IST" duration-ms="4221" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="LoginPageTitleTest()[pri:0, instance:com.ui.qa.test.SignUpPageTest@57bc27f5]" started-at="2023-10-09T02:56:19 IST" name="LoginPageTitleTest" finished-at="2023-10-09T02:56:19 IST" duration-ms="37" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginPageTitleTest -->
+        <test-method is-config="true" signature="TearDown()[pri:0, instance:com.ui.qa.test.SignUpPageTest@57bc27f5]" started-at="2023-10-09T02:56:19 IST" name="TearDown" finished-at="2023-10-09T02:56:19 IST" duration-ms="124" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+      </class> <!-- com.ui.qa.test.SignUpPageTest -->
+      <class name="com.ui.qa.test.loginPageTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.ui.qa.test.loginPageTest@5c7933ad]" started-at="2023-10-09T02:56:06 IST" name="setup" finished-at="2023-10-09T02:56:10 IST" duration-ms="4236" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="LoginPageTitleTest()[pri:1, instance:com.ui.qa.test.loginPageTest@5c7933ad]" started-at="2023-10-09T02:56:10 IST" name="LoginPageTitleTest" finished-at="2023-10-09T02:56:10 IST" duration-ms="6" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginPageTitleTest -->
+        <test-method is-config="true" signature="TearDown()[pri:0, instance:com.ui.qa.test.loginPageTest@5c7933ad]" started-at="2023-10-09T02:56:10 IST" name="TearDown" finished-at="2023-10-09T02:56:10 IST" duration-ms="143" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.ui.qa.test.loginPageTest@5c7933ad]" started-at="2023-10-09T02:56:10 IST" name="setup" finished-at="2023-10-09T02:56:14 IST" duration-ms="4190" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="loginTest()[pri:2, instance:com.ui.qa.test.loginPageTest@5c7933ad]" started-at="2023-10-09T02:56:14 IST" name="loginTest" finished-at="2023-10-09T02:56:15 IST" duration-ms="160" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method is-config="true" signature="TearDown()[pri:0, instance:com.ui.qa.test.loginPageTest@5c7933ad]" started-at="2023-10-09T02:56:15 IST" name="TearDown" finished-at="2023-10-09T02:56:15 IST" duration-ms="114" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+      </class> <!-- com.ui.qa.test.loginPageTest -->
+    </test> <!-- Free CRM Application Test Cases -->
+  </suite> <!-- Free CRM Application Test Automation Test Suite -->
+</testng-results>

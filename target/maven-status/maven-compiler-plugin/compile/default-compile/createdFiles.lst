@@ -1,0 +1,11 @@
+com\ui\qa\pages\LoginPage.class
+com\ui\qa\pages\DealsPage.class
+com\ui\qa\pages\SignUpPage.class
+retryAnalyzer\MyTransformer.class
+retryAnalyzer\RetryAnalyzer.class
+com\ui\qa\extentReportListener\ExtentReportListener.class
+com\ui\qa\pages\ContactsPage.class
+com\ui\qa\pages\HomePage.class
+com\ui\qa\utilities\TestUtil.class
+com\ui\qa\base\TestBase.class
+com\ui\qa\utilities\WebEventListener.class
